@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Nothing**
 
-- 📫 How to reach me **karthiknaryan205@gmail.com**
+- 📫 How to reach me **k**************05@gmail.com**
 
 - 📄 Know about my experiences [stratoshift.blogspot.com](stratoshift.blogspot.com)
 
