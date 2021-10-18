@@ -48,3 +48,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/stratoshift"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="stratoshift" /></a></p><br><br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stratoshift&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
