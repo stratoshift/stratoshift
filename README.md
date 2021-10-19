@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Stratoshift</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [Github](Github.com)
+- 🔭 I’m currently working on [My Channel](https://www.youtube.com/channel/UCVioLcIBvKLgUOnqfQQKUfg)
 
 - 🌱 I’m currently learning **Programming**
 
 - 🤝 I’m looking for help with [Opencore](github.com/acidenthera/OpenCore)
 
-- 👨‍💻 All of my projects are available at [github.com/stratoshift](github.com/stratoshift)
+- 👨‍💻 All of my projects are available [here](github.com/stratoshift)
 
-- 📝 I regularly write articles on [stratoshift.blogspot.com](stratoshift.blogspot.com)
+- 📝 I regularly write articles on [Blogger](stratoshift.blogspot.com)
 
 - 💬 Ask me about **Nothing**
 
 - 📫 How to reach me **k**************05@gmail.com**
 
-- 📄 Know about my experiences [stratoshift.blogspot.com](stratoshift.blogspot.com)
+- 📄 Know about my experiences [here](stratoshift.blogspot.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
