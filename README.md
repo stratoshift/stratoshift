@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stratoshift</h1>
 <h3 align="center">A passionate developer from India</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=stratoshift alt=stratoshift/> </p>
 
 - 🔭 I’m currently working on [My Channel](https://www.youtube.com/channel/UCVioLcIBvKLgUOnqfQQKUfg)
 
