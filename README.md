@@ -5,17 +5,17 @@
 
 - 🌱 I’m currently learning **Programming**
 
-- 🤝 I’m looking for help with [Opencore](github.com/acidenthera/OpenCore)
+- 🤝 I’m looking for help with [Opencore](https://github.com/acidenthera/OpenCore)
 
-- 👨‍💻 All of my projects are available [here](github.com/stratoshift)
+- 👨‍💻 All of my projects are available [here](https://github.com/stratoshift)
 
-- 📝 I regularly write articles on [Blogger](stratoshift.blogspot.com)
+- 📝 I regularly write articles on [Blogger](https://stratoshift.blogspot.com)
 
 - 💬 Ask me about **Nothing**
 
 - 📫 How to reach me **k**************05@gmail.com**
 
-- 📄 Know about my experiences [here](stratoshift.blogspot.com)
+- 📄 Know about my experiences [here](https://stratoshift.blogspot.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
