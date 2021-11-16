@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Programming**
 
-- 🤝 I’m looking for help with [Opencore](https://github.com/acidenthera/OpenCore)
+- 🤝 I’m looking for help with [Opencore](https://github.com/acidanthera/OpenCorePkg)
 
 - 👨‍💻 All of my projects are available [here](https://github.com/stratoshift)
 
