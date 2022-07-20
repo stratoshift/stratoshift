@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **Programming**
 
-- 👨‍💻 All of my projects are available at [github.com/stratoshift](github.com/stratoshift)
+- 👨‍💻 All of my projects are available [here](github.com/stratoshift)
 
-- 📝 I regularly write articles on [stratoshift.blogspot.com](stratoshift.blogspot.com)
+- 📝 I regularly write articles [here](stratoshift.blogspot.com)
 
 - 💬 Ask me about **Nothing**
 
 - 📫 How to reach me **k****************@gmail.com**
 
-- 📄 Know about my experiences [stratoshift.blogspot.com](stratoshift.blogspot.com)
+- 📄 Know about my experiences [here](stratoshift.blogspot.com)
 
 - ⚡ Fun fact **I am friendly**
 
