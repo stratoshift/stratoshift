@@ -15,13 +15,13 @@
 
 - 👨‍💻 All of my projects are available [here](github.com/stratoshift)
 
-- 📝 I regularly write articles [here](stratoshift.blogspot.com)
+- 📝 I regularly write articles [here](https://stratoshift.blogspot.com)
 
 - 💬 Ask me about **Nothing**
 
 - 📫 How to reach me **k****************@gmail.com**
 
-- 📄 Know about my experiences [here](stratoshift.blogspot.com)
+- 📄 Know about my experiences [here](https://stratoshift.blogspot.com)
 
 - ⚡ Fun fact **I am friendly**
 
