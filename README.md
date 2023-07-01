@@ -44,7 +44,6 @@
 <a href="https://www.hackerearth.com/@stratoshift" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@stratoshift" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/stratoshift/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="stratoshift/profile" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/stratoshift" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="stratoshift" height="30" width="40" /></a>
-<a href="/https://stratoshift.blogspot.com/feeds/posts/default?alt=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://stratoshift.blogspot.com/feeds/posts/default?alt=rss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
