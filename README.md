@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Nothing**
 
-- 📫 How to reach me **stratoshift@gmail.com**
-
 - 📄 Know about my experiences [Linkedin](https://linkedin.com/in/stratoshift/)
 
 - ⚡ Fun fact **I am friendly**
